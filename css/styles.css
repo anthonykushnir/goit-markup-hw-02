@@ -62,13 +62,14 @@ body{
     line-height: 1.5;
     color: #ffffff;
     cursor: pointer;
+    background-color: #4D5AE5;
 }
 
-.button :hover{
+.button:hover{
     background-color: #404BBF;
 }
 
-.button :focus{
+.button:focus{
     background-color: #404BBF;
 }
 
