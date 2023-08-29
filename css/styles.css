@@ -1,49 +1,58 @@
 body{
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto', 'Raleway', sans-serif;
     font-size: 16 px;
 
 }
-
-.logo{
-    font-family: 'Raleway';
-}
-
-h1, h2, h3,
 
 h1{
     font-weight: bold;
     font-size: 56px;
     letter-spacing: 0.02;
     line-height: 60px;
+    text-align: center;
 }
+
 h2{
     font-size: 36px;
     font-weight: bold;
-    line-height: 40px;
-    letter-spacing: 0.02em;
+    letter-spacing: 0.02;
     text-align: center;
     color: #2E2F42;
 }
+
 h3{
     font-size: 20px;
     font-weight: medium;
-    line-height: 24px;
-    letter-spacing: 0.02em;
+    letter-spacing: 0.02;
     text-align: center;
     color: #2E2F42;
 }
 
-small{
-
+.small{
+    font-size: 12px;
+    line-height: 14px;
+    letter-spacing: 0.04;
 }
-medium{
 
+.medium{
+    font-weight: medium;
+    letter-spacing: 0.02;
+    line-height: 24px;
 }
-button-text{
 
-link{
-
+.button-text{
+    font-weight: medium;
+    line-height: 24px;
+    letter-spacing: 0.04;
 }
-logo{
+
+.link{
+    font-size: 12px;
+    line-height: 16px;
+    letter-spacing: 0.04;
+    text-decoration: underline;
+}
+
+.logo{
     font-family: 'Raleway';
 }
