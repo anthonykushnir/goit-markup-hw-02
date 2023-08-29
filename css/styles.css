@@ -19,16 +19,15 @@ h1{
     letter-spacing: 0.02em;
     text-align: center;
     color: #2E2F42;
-    line-height: 1.2;
-    
 }
 
-h3{
+.headline{
     font-size: 20px;
     font-weight: medium;
     letter-spacing: 0.02em;
     text-align: center;
     color: #2E2F42;
+    line-height: 1.2; 
 }
 
 .small{
