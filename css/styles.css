@@ -8,7 +8,7 @@ body{
 h1{
     font-weight: bold;
     font-size: 56px;
-    letter-spacing: 0.02;
+    letter-spacing: 0.02em;
     line-height: 60px;
     text-align: center;
 }
@@ -16,7 +16,7 @@ h1{
 h2{
     font-size: 36px;
     font-weight: bold;
-    letter-spacing: 0.02;
+    letter-spacing: 0.02em;
     text-align: center;
     color: #2E2F42;
 }
@@ -24,7 +24,7 @@ h2{
 h3{
     font-size: 20px;
     font-weight: medium;
-    letter-spacing: 0.02;
+    letter-spacing: 0.02em;
     text-align: center;
     color: #2E2F42;
 }
@@ -32,25 +32,25 @@ h3{
 .small{
     font-size: 12px;
     line-height: 14px;
-    letter-spacing: 0.04;
+    letter-spacing: 0.04em;
 }
 
 .medium{
     font-weight: medium;
-    letter-spacing: 0.02;
+    letter-spacing: 0.02em;
     line-height: 24px;
 }
 
 .button-text{
     font-weight: medium;
     line-height: 24px;
-    letter-spacing: 0.04;
+    letter-spacing: 0.04em;
 }
 
 .link{
     font-size: 12px;
     line-height: 16px;
-    letter-spacing: 0.04;
+    letter-spacing: 0.04em;
     text-decoration: underline;
 }
 
@@ -68,6 +68,10 @@ header .logo .partoflogo{
     color: #2e2f42;
 }
 
+.footer {
+    background-color: #2e2f42;
+}
+
 footer .logo .partoflogo{
     color: #F4F4FD;
     line-height: 1.5;
@@ -77,4 +81,6 @@ footer .logo .partoflogo{
 
 footer .small{
     color: #F4F4FD;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 }
