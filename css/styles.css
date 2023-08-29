@@ -15,12 +15,51 @@ body{
     color: #ffffff;
 }
 
+.nav{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color:#2e2f42;
+}
+
+.nav:hover{
+    color: #404bbf;
+}
+
+.nav:focus{
+    color: #404bbf;
+}
+
+.address{
+    font-style: normal;
+}
+
+.conts{
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+
+.conts:hover{
+    color: #404bbf;
+}
+
+.conts:focus{
+    color: #404bbf;
+}
+
 .order{
     background-color: #2e2f42;
 }
 
 .team{
     background-color: #F4F4FD;
+}
+
+.teammates{
+    background-color: #FFFFFF;
 }
 
 .section-header{
