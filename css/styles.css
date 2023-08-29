@@ -13,17 +13,23 @@ h1{
     text-align: center;
 }
 
+.team{
+    background-color: #F4F4FD;
+}
+
 .section-header{
     font-size: 36px;
     font-weight: bold;
     letter-spacing: 0.02em;
     text-align: center;
     color: #2E2F42;
+    line-height: 1.11;
+    text-transform: capitalize;
 }
 
 .headline{
     font-size: 20px;
-    font-weight: medium;
+    font-weight: 500;
     letter-spacing: 0.02em;
     text-align: center;
     color: #2E2F42;
